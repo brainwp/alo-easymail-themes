@@ -71,6 +71,15 @@
 				</tr>
 				<tr>
 					<td>
+						<!-- gallery -->
+						<table cellspacing="0" border="0" cellpadding="0" width="600">
+							<tr>
+								<td class="gallery" height="45" valign="top" style="padding: 20px; font-family: 'Source Sans Pro', Arial, Geneva;" width="600" colspan="2">
+									[GALLERY]
+								</td>
+							</tr>
+						</table>
+						<!--  / gallery -->
 					</td>
 				</tr>					
 				<tr>
